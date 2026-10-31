@@ -1,0 +1,2 @@
+Counting Words in a File.
+Write a function that reads the contents of a file named document.txt and returns the number of words in the file.
